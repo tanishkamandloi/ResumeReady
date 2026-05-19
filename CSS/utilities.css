@@ -1,0 +1,20 @@
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 80px 20px;
+}
+
+.primary-btn {
+  padding: 15px 20px;
+  background: #4988C4;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.primary-btn:hover {
+  background-color: #132440;
+}
